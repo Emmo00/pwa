@@ -1,0 +1,12 @@
+{
+  "name": "My PWA",
+  "icons": {
+    "src": "./icons/1.png",
+    "type": "image/png"
+  },
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF",
+  "start_url": "/PWA/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
